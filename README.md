@@ -35,6 +35,21 @@ Calculating Metrics:
 
 3. Calculate 50-day simple moving average for a YESBANK company's stock.
 
+4. Top Performing Stocks: Identify the top-performing stocks based on their daily percent returns.
+
+**Step 3: Tableau Visualization**
+
+**Connecting Data:**
+Import the exported CSV files into Tableau.
+
+**Creating Visualizations:**
+
+Create interactive visualizations like line charts, candlestick charts, and scatter plots to analyze stock price trends, correlations, and volume.
+
+**Comparative Analysis:**
+
+Use Tableau to compare the performance of multiple stocks, market indices, and sectors over time.
+
 
 
 
