@@ -29,5 +29,12 @@ Data Cleansing:
 Use MySQL queries to clean the data, handling missing values, and ensuring data consistency. In our case data is consistent, complete and reliable. So, we don't require to do data cleansing.
 
 Calculating Metrics:
-Calculate financial metrics like returns, moving averages, volatility, and various technical indicators using SQL queries.
+1. Calculate daily percentage returns for each stock.
+
+2. Calculate the return or loss if I started intraday with CANBK daily with algorithm trading means buying at opening price and selling at closing price.
+
+3. Calculate 50-day simple moving average for a YESBANK company's stock.
+
+
+
 
